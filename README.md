@@ -54,7 +54,6 @@ Each emotion is shown in a different color:
 
 ![First_Screenshot](img1.png)
 ![Second_Screenshot](img2.png)
-![Three_Screenshot](img3.png)
 
 ##  License
 
