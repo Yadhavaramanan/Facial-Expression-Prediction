@@ -52,9 +52,9 @@ Each emotion is shown in a different color:
 
 ##  Screenshot 
 
-!(First_Screenshot) [img1.png]
-!(Second_Screenshot) [img2.png]
-!(Three_Screenshot) [img3.png]
+![First_Screenshot](img1.png)
+![Second_Screenshot](img2.png)
+![Three_Screenshot](img3.png)
 
 ##  License
 
